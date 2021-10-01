@@ -10,6 +10,8 @@ namespace _20211001
     {
         static void Main(string[] args)
         {
+            Console.Write("Enter");
+            Console.ReadLine();
         }
     }
 }
