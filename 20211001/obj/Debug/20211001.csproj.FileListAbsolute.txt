@@ -1,0 +1,6 @@
+C:\Users\judit\Desktop\2021-2022 órai munkák\11E2\20211001\bin\Debug\20211001.exe.config
+C:\Users\judit\Desktop\2021-2022 órai munkák\11E2\20211001\bin\Debug\20211001.exe
+C:\Users\judit\Desktop\2021-2022 órai munkák\11E2\20211001\bin\Debug\20211001.pdb
+C:\Users\judit\Desktop\2021-2022 órai munkák\11E2\20211001\obj\Debug\20211001.csprojAssemblyReference.cache
+C:\Users\judit\Desktop\2021-2022 órai munkák\11E2\20211001\obj\Debug\20211001.exe
+C:\Users\judit\Desktop\2021-2022 órai munkák\11E2\20211001\obj\Debug\20211001.pdb
